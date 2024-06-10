@@ -83,7 +83,7 @@
     spotify
     sublime4
     texlive.combined.scheme-full
-    xscreensaver
+    xsecurelock
     zoom-us
   ];
 
