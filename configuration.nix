@@ -71,6 +71,7 @@
     ];
   };
   environment.systemPackages = with pkgs; [
+    alacritty
     awesome
     discord
     gcc
@@ -91,3 +92,4 @@
   # (e.g. man configuration.nix or on https://nixos.org/nixos/options.html).
   system.stateVersion = "24.05";
 }
+
