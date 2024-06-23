@@ -78,6 +78,7 @@
   environment.systemPackages = with pkgs; [
     alacritty
     awesome
+    blender
     discord
     gcc
     gh
