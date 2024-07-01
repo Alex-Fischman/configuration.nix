@@ -83,6 +83,7 @@
     gcc
     gh
     git
+    gnumake
     google-chrome
     inkscape
     pavucontrol
