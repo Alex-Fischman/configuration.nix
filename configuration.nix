@@ -91,6 +91,7 @@
     spotify
     sublime4
     texlive.combined.scheme-full
+    valgrind
     xsecurelock
     zoom-us
   ];
