@@ -89,6 +89,7 @@
     pavucontrol
     rustup
     spotify
+    steam
     sublime4
     texlive.combined.scheme-full
     valgrind
