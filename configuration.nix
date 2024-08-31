@@ -94,6 +94,7 @@
     texlive.combined.scheme-full
     valgrind
     xsecurelock
+    zig
     zoom-us
   ];
   programs.steam = {
