@@ -86,6 +86,7 @@
     gnumake
     google-chrome
     inkscape
+    nodejs
     pavucontrol
     rustup
     spotify
