@@ -79,6 +79,8 @@
     alacritty
     awesome
     blender
+    cargo-insta
+    cargo-nextest
     discord
     gcc
     gh
@@ -86,7 +88,6 @@
     gnumake
     google-chrome
     inkscape
-    llvm
     nodejs
     pavucontrol
     rustup
