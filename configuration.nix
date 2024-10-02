@@ -86,6 +86,7 @@
     gnumake
     google-chrome
     inkscape
+    llvm
     nodejs
     pavucontrol
     rustup
