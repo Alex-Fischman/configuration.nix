@@ -79,6 +79,7 @@
     alacritty
     awesome
     blender
+    cargo-flamegraph
     cargo-insta
     cargo-nextest
     discord
