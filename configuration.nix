@@ -91,6 +91,7 @@
     inkscape
     nodejs
     pavucontrol
+    prismlauncher
     rustup
     spotify
     steam
