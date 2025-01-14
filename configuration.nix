@@ -100,7 +100,10 @@
     valgrind
     xsecurelock
     zig
-    zoom-us
+    # WI25
+    jdk17
+    python3
+    # jetbrains.idea-community
   ];
   programs.steam = {
     enable = true;
