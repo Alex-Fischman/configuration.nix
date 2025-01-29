@@ -51,7 +51,7 @@
   };
 
   # Sound
-  hardware.pulseaudio.enable = false;
+  services.pulseaudio.enable = false;
   security.rtkit.enable = true;
   services.pipewire = {
     enable = true;
@@ -103,7 +103,7 @@
     # WI25
     jdk17
     python3
-    # jetbrains.idea-community
+    love
   ];
   programs.steam = {
     enable = true;
