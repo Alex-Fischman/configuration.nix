@@ -98,7 +98,6 @@
     zig
     # SP25
     coq
-    vscode
   ];
   programs.steam = {
     enable = true;
