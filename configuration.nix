@@ -9,10 +9,6 @@
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
 
-  # Networking
-  networking.hostName = "nixos";
-  networking.networkmanager.enable = true;
-
   # Locale
   time.timeZone = "America/Los_Angeles";
   i18n.defaultLocale = "en_US.UTF-8";
@@ -100,10 +96,9 @@
     valgrind
     xsecurelock
     zig
-    # WI25
-    jdk17
-    python3
-    love
+    # SP25
+    coq
+    vscode
   ];
   programs.steam = {
     enable = true;
