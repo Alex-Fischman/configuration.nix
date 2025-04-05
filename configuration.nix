@@ -97,7 +97,7 @@
     xsecurelock
     zig
     # SP25
-    coq
+    coq_8_20
   ];
   programs.steam = {
     enable = true;
