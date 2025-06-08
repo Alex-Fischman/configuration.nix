@@ -75,6 +75,7 @@
     alacritty
     awesome
     blender
+    blueman
     cargo-flamegraph
     cargo-insta
     cargo-nextest
@@ -96,8 +97,6 @@
     valgrind
     xsecurelock
     zig
-    # SP25
-    coq_8_20
   ];
   programs.steam = {
     enable = true;
