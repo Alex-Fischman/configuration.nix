@@ -24,11 +24,13 @@
     LC_TIME = "en_US.UTF-8";
   };
 
+  # Enable GNOME as a backup
+  services.displayManager.gdm.enable = true;
+  services.desktopManager.gnome.enable = true;
+
   services.xserver = {
     # Window
     enable = true;
-    displayManager.gdm.enable = true;
-    desktopManager.gnome.enable = true;
     windowManager.awesome.enable = true;
 
     # Keymap
