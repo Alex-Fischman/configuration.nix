@@ -10,7 +10,7 @@
   boot.loader.efi.canTouchEfiVariables = true;
 
   # Locale
-  time.timeZone = "America/Los_Angeles";
+  time.timeZone = "America/New_York";
   i18n.defaultLocale = "en_US.UTF-8";
   i18n.extraLocaleSettings = {
     LC_ADDRESS = "en_US.UTF-8";
@@ -97,6 +97,7 @@
     rustup
     spotify
     steam
+    streamcontroller
     sublime4
     texlive.combined.scheme-full
     valgrind
@@ -114,4 +115,3 @@
   # (e.g. man configuration.nix or on https://nixos.org/nixos/options.html).
   system.stateVersion = "25.05";
 }
-
