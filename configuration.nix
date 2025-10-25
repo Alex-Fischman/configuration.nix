@@ -78,7 +78,6 @@
   };
   environment.systemPackages = with pkgs; [
     alacritty
-    atlauncher
     awesome
     blender
     blueman
