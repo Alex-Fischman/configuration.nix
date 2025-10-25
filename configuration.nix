@@ -78,6 +78,7 @@
   };
   environment.systemPackages = with pkgs; [
     alacritty
+    atlauncher
     awesome
     blender
     blueman
@@ -97,7 +98,6 @@
     rustup
     spotify
     steam
-    streamcontroller
     sublime4
     texlive.combined.scheme-full
     valgrind
