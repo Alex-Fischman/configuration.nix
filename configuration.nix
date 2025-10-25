@@ -61,6 +61,9 @@
   # Firmware
   services.fwupd.enable = true;
 
+  # Network
+  services.tailscale.enable = true;
+
   # User
   users.users.alex = {
     isNormalUser = true;
